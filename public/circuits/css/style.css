@@ -1,0 +1,9 @@
+body
+{
+  background-color: white;
+}
+div .col1
+{
+  background: url(../img/bgcol.png) 0 0 repeat-x #d64842;
+
+}
